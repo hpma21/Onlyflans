@@ -1,10 +1,10 @@
 # Onlyflans <br>
 
-El  repositorio corresponde a un desafio evaluado Implementando mi Portafolio del módulo desarrollo de portafolio de un produto digital este proyecto web en conjunto con el proyeccto Onlyflans que  corresponde a un desafío evaluado del módulo Desarrollo de aplicaciones web con Python Django, parte del bootcamp Desarrollo de aplicaciones full stack Python trainee 2021 de Edutecno. <br>
+El repositorio corresponde a un desafío evaluado Implementando mi Portafolio del módulo desarrollo de portafolio de un producto digital este proyecto web en conjunto con el proyecto Onlyflans que  corresponde a un desafío evaluado del módulo Desarrollo de aplicaciones web con Python Django, parte del bootcamp Desarrollo de aplicaciones full stack Python trainee 2021 de Edutecno. <br>
 
 El proyecto OnlyFlans busca poner en práctica los conocimientos adquiridos en el bootcamp, a saber:<br>
 ●Python 3.
-●Programación orienteada a objetos.
+●Programación orientada a objetos.
 ●Manejo de bases de datos SQL.
 ●HTML, CSS.
 ●Bootstrap v5.1.3.
@@ -22,20 +22,14 @@ Realiza commit frecuentemente
 No integres dependencias
 Crea un archivo. gitignore significativo
 
-● Utiliza un servicio de hosting para alojar un producto tecnológico de acuerdo a su
+● Utiliza un servicio de hosting para alojar un producto tecnológico de acuerdo con su
 naturaleza.
 
 Habilidades adquiridas<br>
 levantar proyecto Django desde 0 en un entorno virtual <br>
 agregar contenido personalizado y navegación al sitio web <br>
-Se añadio la capacidad de guardar información y permitir su creación tanto a
+la capacidad de guardar información y permitir su creación tanto a
 través del panel de administración de Django(en el caso del modelo Flan) y a través de
-formulario personalizado(en el caso del modelo Contactform)<br>
-se aprendio a filtrar modelos para obtener datos diferenciados en una vista u otra, por ejemplo en la ruta de
-Inicio se muestran todos los Flan que tienen configurado is_private=False mientras que en la
-ruta Bienvenido se muestran todos los Flan que tienen configurado is_private=True lo que
-nos quiere decir que esos productos solo deberían ser mostrados a aquellos usuarios
-registrados en nuestro sitio web. <br>
-Se añadio la posibilidad de controlar qué usuarios pueden acceder
-a cierto contenido de la web, de manera de dejar la ruta Bienvenido inaccesible para todos
-aquellos visitantes que no tengan un usuario registrado en nuestro sitio web.
+formulario personalizado (en el caso del modelo Contactform)<br>
+se aprendió a filtrar modelos para obtener datos diferenciados en una vista u otra, por ejemplo, en la ruta de Inicio se muestran todos los Flan que tienen configurado is_private=False mientras que en la ruta Bienvenido se muestran todos los Flan que tienen configurado is_private=True lo que nos quiere decir que esos productos solo deberían ser mostrados a aquellos usuarios registrados en nuestro sitio web. <br>
+controlar qué usuarios pueden accederá cierto contenido de la web, de manera de dejar la ruta Bienvenido inaccesible para todos aquellos visitantes que no tengan un usuario registrado en nuestro sitio web.
